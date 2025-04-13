@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Environment
+.env
+venv/
+.env.*
+
+# VSCode or JetBrains IDEs (optional, if you're using them)
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
